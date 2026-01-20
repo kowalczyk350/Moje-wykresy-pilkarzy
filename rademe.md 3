@@ -1,0 +1,27 @@
+
+    Wykres radarowy porównuje statystyki dwóch zawodników (legendy: niebieski i czerwony). Tytuł zawiera datę spotkania. Każda oś to inna metryka boiskowa (strzały, dryblingi, pojedynki itp.).
+
+Osie (w przybliżeniu, zaczynając od góry i idąc zgodnie z ruchem wskazówek zegara)
+
+    Strzały celne
+    Strzały niecelne
+    Zablokowane strzały
+    Próby dryblingu (udane)
+    Pojedynki (wygrane)
+    Pojedynki powietrzne (wygrane)
+    Utracone posiadanie
+    Faule
+    Sfaulowany
+
+Główne obserwacje (rzeczywiste i zwięzłe)
+
+    Czerwony (seria w kolorze czerwono‑różowym) ma wyraźnie wyższe wartości na osiach związanych ze strzałami — zwłaszcza „Strzały celne” oraz „Strzały niecelne”.
+    Czerwony osiąga też większe wartości w próbach dryblingu i w ogólnych pojedynkach wygranych w porównaniu z niebieskim.
+    Niebieski (seria niebieska) wyróżnia się na osi „Pojedynki powietrzne (wygrane)” — tutaj jego wartość jest wyraźnie większa niż czerwonego.
+    Różnice w metrykach takich jak „Faule�� czy „Sfaulowany” są niewielkie.
+    Ogólny wniosek: czerwony zawodnik jest bardziej aktywny i skuteczny w akcjach strzałowych i w większości pojedynków, podczas gdy niebieski ma przewagę w pojedynkach powietrznych.
+
+Zwięzły alt‑text (jedno zdanie)
+
+    Radar porównawczy dwóch zawodników (data w tytule) — czerwony ma wyraźną przewagę w strzałach i dryblingach, niebieski jest silniejszy w pojedynkach powietrznych.
+          *© Mirosław Kowalczyk*
