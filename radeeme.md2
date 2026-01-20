@@ -1,0 +1,24 @@
+
+    Radar motoryczny (tytuł wykresu zawiera imię i klub, ale opisuję tylko treść wykresu): wypełniony wykres radarowy przedstawia profil motoryczny jednego zawodnika — wartości na osiach pokazane są w przybliżonych jednostkach (km/h, km, m, liczba).
+
+Osie i przybliżone wartości widoczne na wykresie
+
+    Maks. prędkość (km/h): skala sięga do ~36 km/h — wypełniony wielokąt plasuje się w przybliżeniu przy ~28–29 km/h.
+    Dystans całkowity (km): zewnętrzny pierścień odpowiada ~12 km; niebieska seria znajduje się w pobliżu ~7 km.
+    Chodzenie (km): wartość umieszczona po prawej stronie wykresu, przybliżenie dla niebieskiej serii ~3–4 km.
+    Bieganie (km): oś u dołu; niebieska seria osiąga bliską zewnętrznemu pierścieniowi wartość ≈4.8 km.
+    Sprint (m): oś po lewej stronie od dołu — skala w metrach, niebieska wartość jest umiarkowana (rzędu kilkuset metrów łącznie w sprintach).
+    Liczba sprintów: oś u góry‑lewej; niebieska wartość wskazuje umiarkowaną liczbę sprintów (kilkanaście–kilkadziesiąt).
+
+Główne obserwacje (konkretne i zwięzłe)
+
+    Zawodnik osiąga wysoką maksymalną prędkość (około 28–29 km/h) — blisko drugiego zewnętrznego pierścienia, lecz poniżej maksymalnej skali 36 km/h.
+    Dystans całkowity dla niebieskiej serii wynosi około 7 km (czyli wyraźnie poniżej zewnętrznego pierścienia ~12 km).
+    Bieganie stanowi znaczącą część dystansu — ok. 4.8 km.
+    Chodzenie i sprinty są obecne w umiarkowanym zakresie; łączna odległość sprintów i ich liczba nie dominują wykresu.
+    Ogólny profil: silny udział biegania i wysoka prędkość szczytowa, przy umiarkowanej liczbie sprintów i niewyczerpującym całkowitym dystansie względem maksymalnej skali wykresu.
+
+Zwięzły alt‑text (jedno zdanie, do atrybutu alt)
+
+    Radar motoryczny zawodnika — maks. prędkość ≈28–29 km/h, dystans całkowity ≈7 km, bieganie ≈4.8 km; umiarkowana liczba i łączna odległość sprintów.
+               *© Mirosław Kowalczyk*
