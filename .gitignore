@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Backup files
+*.bak
+*.backup
+
+# Logs
+*.log
